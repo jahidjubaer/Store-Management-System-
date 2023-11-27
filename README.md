@@ -16,8 +16,8 @@ Jahid's Varieties Store Management System is a simple C++ program designed to ma
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/jahidjubaer/Store-Management-Cpp
-   cd Store-Management-Cpp 
+   git clone https://github.com/jahidjubaer/Store-Management-System-
+   cd Store-Management-System-
    
 
 ## Usage
