@@ -44,7 +44,7 @@ Jahid's Varieties Store Management System is a simple C++ program designed to ma
 - **data.txt:** Stores the product inventory data.
 - **temp.txt:** Temporary file used for processing transactions.
 
-## NB:
+## N.B:
 I don't upload any .txt file .so If you want to buy anything first you have to add the Product from the Admin Panel. To Access the admin panel press "A" .
 
 ## Contributing
